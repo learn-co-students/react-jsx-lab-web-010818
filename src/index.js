@@ -11,5 +11,5 @@ ReactDOM.render(
       <Webpage />
     </div>
   ),
-  document.getElementById('global')
+  document.getElementById('main')
 );
